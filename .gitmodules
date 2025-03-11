@@ -1,0 +1,15 @@
+[submodule "student1"]
+	path = student1
+	url = https://github.com/K-A-Dastgerdi/Student1.git
+[submodule "student2"]
+	path = student2
+	url = https://github.com/K-A-Dastgerdi/Student2.git
+[submodule "student3"]
+	path = student3
+	url = https://github.com/K-A-Dastgerdi/Student3.git
+[submodule "student5"]
+	path = student5
+	url = https://github.com/K-A-Dastgerdi/Student5.git
+[submodule "student4"]
+	path = student4
+	url = https://github.com/K-A-Dastgerdi/Student4.git
